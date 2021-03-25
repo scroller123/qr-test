@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c67effa6-c515-4a92-94bf-9aa597f4364d" name="Default Changelist" comment="" />
+    <list default="true" id="c67effa6-c515-4a92-94bf-9aa597f4364d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,11 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1qG0GbFdt12bbsYHMFKrPncLIZB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,6 +69,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
@@ -75,6 +85,10 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="418" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1616692175915" />
+    <state x="571" y="114" width="773" height="881" key="CommitChangelistDialog2" timestamp="1616693269884">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="571" y="114" width="773" height="881" key="CommitChangelistDialog2/0.25.1920.1055@0.25.1920.1055" timestamp="1616693269884" />
     <state x="860" y="428" width="192" height="255" key="EnvironmentVariablesDialog" timestamp="1616691805939">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
@@ -115,18 +129,22 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="464" y="189" width="992" height="732" key="SettingsEditor/0.25.1920.1055@0.25.1920.1055" timestamp="1616692068100" />
+    <state x="555" y="290" width="806" height="530" key="Vcs.Push.Dialog.v2" timestamp="1616693706500">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="555" y="290" width="806" height="530" key="Vcs.Push.Dialog.v2/0.25.1920.1055@0.25.1920.1055" timestamp="1616693706500" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/main.go</url>
-          <line>29</line>
+          <line>22</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/main.go</url>
-          <line>31</line>
+          <line>24</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>

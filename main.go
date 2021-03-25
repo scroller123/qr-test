@@ -1,6 +1,7 @@
 package main
 
 import (
+	"encoding/base64"
 	"fmt"
 	qrcode "github.com/skip2/go-qrcode"
 	"net/http"
@@ -19,7 +20,11 @@ func hello(w http.ResponseWriter, req *http.Request) {
 		fmt.Print(err)
 	}
 
-	w.Write(png)
+	res := base64.StdEncoding.EncodeToString(png)
+
+	res = "<html><img src=\"data:image/png;base64, " + res + "\" alt=\"Red dot\" /></html>"
+
+	w.Write([]byte(res))
 }
 
 func main() {

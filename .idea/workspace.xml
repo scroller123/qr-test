@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c67effa6-c515-4a92-94bf-9aa597f4364d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,10 +85,10 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="418" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1616692175915" />
-    <state x="571" y="114" width="773" height="881" key="CommitChangelistDialog2" timestamp="1616693269884">
+    <state x="571" y="114" width="773" height="881" key="CommitChangelistDialog2" timestamp="1616693756133">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state x="571" y="114" width="773" height="881" key="CommitChangelistDialog2/0.25.1920.1055@0.25.1920.1055" timestamp="1616693269884" />
+    <state x="571" y="114" width="773" height="881" key="CommitChangelistDialog2/0.25.1920.1055@0.25.1920.1055" timestamp="1616693756133" />
     <state x="860" y="428" width="192" height="255" key="EnvironmentVariablesDialog" timestamp="1616691805939">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
@@ -129,22 +129,22 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="464" y="189" width="992" height="732" key="SettingsEditor/0.25.1920.1055@0.25.1920.1055" timestamp="1616692068100" />
-    <state x="555" y="290" width="806" height="530" key="Vcs.Push.Dialog.v2" timestamp="1616693706500">
+    <state x="555" y="290" width="806" height="530" key="Vcs.Push.Dialog.v2" timestamp="1616693757742">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state x="555" y="290" width="806" height="530" key="Vcs.Push.Dialog.v2/0.25.1920.1055@0.25.1920.1055" timestamp="1616693706500" />
+    <state x="555" y="290" width="806" height="530" key="Vcs.Push.Dialog.v2/0.25.1920.1055@0.25.1920.1055" timestamp="1616693757742" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/main.go</url>
-          <line>22</line>
+          <line>21</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/main.go</url>
-          <line>24</line>
+          <line>23</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
